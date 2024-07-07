@@ -1,0 +1,67 @@
+
+[
++src/abstractfactory/armaduras/Armadura.java,7\a\7af119cd5ee416ee530c216fcf5fe4ea00d48592
+S
+#src/abstractfactory/armas/Arma.java,5\0\50baeb462c9f3dd5f3a57d678a03c83a712fb2d7
+g
+7src/abstractfactory/factory/EnemigoAbstractFactory.java,f\1\f12d39bae2f0e56ca514d31a25a120f0b13d8287
+`
+0src/abstractfactory/factory/GuerreroFactory.java,1\b\1b1e5fceca3cbcc2426200794dd320fcea77a3f5
+\
+,src/abstractfactory/factory/MagoFactory.java,8\0\80c654181e96b1cf5b025f370842c7ab3e4aae72
+M
+src/abstractfactory/Main.java,a\8\a899abe5881c82b4b46a6612a07bea0e15540ed1
+S
+#src/factory/ejemploDos/Enemigo.java,0\5\05539a8d1ee0b5dbf58ff1468720834d4c98f2fc
+Z
+*src/factory/ejemploDos/EnemigoFactory.java,a\f\afd14d269130f28b5500d3ce7ec9f572cdba815f
+T
+$src/factory/ejemploDos/Guerrero.java,6\7\67561db097289c7e5756294ddcf0ebfd2bba111b
+P
+ src/factory/ejemploDos/Mago.java,c\4\c41790c1c5297f0948aed1c1e3fbd0b3fa39d0e9
+T
+$src/factory/ejemploUno/TipoPago.java,5\4\5400597a6014af028fac3d05bd6b0b7f1b5124fa
+P
+ src/factory/ejemploUno/Pago.java,9\7\97562025830d8faa7042538ca774c6326cd8c779
+X
+(src/factory/ejemploUno/PagoEfectivo.java,b\1\b1cc0ccf02136fd689ddab6aea6c8b7b6609cfb0
+W
+'src/factory/ejemploUno/PagoFactory.java,8\f\8ffc9e0cf717763f37a43dc9ca24f9ae5b7d6116
+V
+&src/factory/ejemploUno/PagoPayPal.java,b\c\bc8d14a70418bfad0e70fb8db6194870fb6e53be
+N
+src/factorymethod/Enemigo.java,8\1\812dd82caa5ef672f72e2b5d3d5dddfe288a96b9
+U
+%src/factorymethod/EnemigoFactory.java,8\9\8929c5d1467b7f8b407c71935dcfff6e569e001c
+O
+src/factorymethod/Guerrero.java,1\1\119cdcf25efe42fb243096d878ce2222ba7aea39
+V
+&src/factorymethod/GuerreroFactory.java,c\7\c78c4c1c3fcebf7064764aae158e25b446a58277
+R
+"src/factorymethod/MagoFactory.java,b\b\bb1b835b36863e7b58a798e1de93376a7882f3b6
+X
+(src/abstractfactory/enemigo/Enemigo.java,1\3\13276df633159545e4ee82385cb964b44c18a231
+<
+untitled.iml,a\b\abe6c6191bb7757c850d143150dfb09fd0ce52cc
+P
+ src/factory/ejemploDos/Main.java,d\a\da1807ebd7d0aa5db1a19340ceb4d034291157ef
+P
+ src/factory/ejemploUno/Main.java,c\0\c0caa6f40ddf1c3bb1d538e85ce3d3b9bf0964ce
+K
+src/factorymethod/Mago.java,5\0\508d78569b88d9629e044374f91e15e62d9193b5
+K
+src/factorymethod/Main.java,0\f\0f46e4366925bbc1961c04eac41ca80b26aea38e
+Y
+)src/abstractfactory/enemigo/Guerrero.java,8\9\897ad4c4a4254bfe535db3bc999106b3dedb2cb4
+U
+%src/abstractfactory/enemigo/Mago.java,8\0\803d0d69fad0a964023304a6fa57c8c78278d214
+Y
+)src/abstractfactory/armas/BastonMago.java,7\c\7c46a0f39c71a47fa9077f2e5036057aee68a451
+]
+-src/abstractfactory/armas/EspadaGuerrero.java,c\d\cde805bd499ff702d39105c9b07f79ac56f8a8d6
+H
+src/builder/Enemigo.java,a\8\a8efefe7ce87eac2d957909b0d29806f76774e1b
+O
+src/builder/EnemigoBuilder.java,0\1\0197b51771abd621a74991dcada41ca5bf8ded95
+E
+src/builder/Main.java,b\2\b23f8590f81b4b8ffca75da173a2d30ec221e7f7

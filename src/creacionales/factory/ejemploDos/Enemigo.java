@@ -1,0 +1,7 @@
+package creacionales.factory.ejemploDos;
+
+public interface Enemigo {
+
+    void atacar();
+
+}
